@@ -1,0 +1,8 @@
+# Documentation for running hello world on Browser console
+
+on chrome; ctrl + shift + i
+or right click and pick - inspection
+
+## codes
+
+1. alert("Hello Abioye")
